@@ -3,7 +3,7 @@ This documentation is for the stable release of Orion Library (Bisam edition).
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/DexCodeSX/OrionLib/main/SourceOrionLib", true))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/DexCodeSX/OrionLib/main/SourceOrionLib.lua", true))()
 ```
 
 
